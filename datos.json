@@ -1,0 +1,43 @@
+[    
+    {
+        "title": "Batimóvil",
+        "category": "Industrial/Modelado 3D",
+        "imagen": "img/batimovilcontexto.jpg"
+    },
+    {
+        "title": "Transformaciones corporales",
+        "category": "Diseño gráfico e ilustración",
+        "imagen": "img/tallertres.png"
+    },
+    {
+        "title": "Festival del Cachureo",
+        "category": "Diseño de experiencia",
+        "imagen": "img/festivaldelcachureo.png"
+    },
+    {
+        "title": "NgenPet",
+        "category": "Diseño de productos",
+        "imagen": "img/ngenpet.jpg"
+    },
+    {
+        "title": "Preventips",
+        "category": "Diseño de sistemas",
+        "imagen": "img/preventips.png"
+    },
+    {
+        "title": "Scape!",
+        "category": "Diseño de sistemas",
+        "imagen": "img/scape.png"
+    },
+    {
+        "title": "Tocador PALADS",
+        "category": "Diseño Industrial",
+        "imagen": "img/tocadorpalads.png"
+    },
+    {
+        "title": "Bloody Heart",
+        "category": "Diseño industrial",
+        "imagen": "img/bloodyheart.png"
+    }
+]
+
