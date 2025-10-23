@@ -56,3 +56,4 @@ async function datos(raw) {
 datos("https://raw.githubusercontent.com/rosi2701/decimaClase/refs/heads/main/datos.json");
 
 
+
