@@ -4,7 +4,7 @@ const habilidades = [
     {programa: "Figma", valor: "90"},
     {programa: "Fusion 360", valor: "70"},
     {programa: "MediBang Paint Pro", valor: "60"},
-    {programa: "Illustrator", valor: "50"},
+    {programa: "Illustrator", valor: "50"}
 ];
 
 const donde = document.querySelector("#aqui");
@@ -33,15 +33,16 @@ async function datos(raw) {
         trabajos.forEach((trabajo) => {
             portfolio.innerHTML += `
                 <div class="col">
-                    <div class="card shadow-sm">
-                        <img src="${trabajo.imagen}" class="card-img-top" alt="${trabajo.title}">
-                        <div class="card-body">
-                            <p class="card-text">${trabajo.title}</p>
-                            <div class="d-flex justify-content-between align-items-center">
+                    <div class="card shadow-sm h-100">
+                        <img src="${trabajo.photo}" class="card-img-top" alt="${trabajo.title}">
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title">${trabajo.title}</h5>
+                            <p class="flex-grow-1">${trabajo.description}</p>
+                            <div class="d-flex justify-content-between align-items-center mt-auto">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">${trabajo.category}</button>
                                 </div>
-                                <small class="text-body-secondary">Reciente</small>
+                                <span class="date-badge">${trabajo.date}</span>
                             </div>
                         </div>
                     </div>
@@ -53,3 +54,5 @@ async function datos(raw) {
 }
 
 datos("https://raw.githubusercontent.com/rosi2701/decimaClase/refs/heads/main/datos.json");
+
+
