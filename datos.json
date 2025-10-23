@@ -2,43 +2,46 @@
     {
         "title": "Batimóvil",
         "category": "Industrial/Modelado 3D",
-        "imagen": "img/batimovilcontexto.jpg"
+        "imagen": "https://rosi2701.github.io/decimaClase/img/batimovilcontexto.jpg"
     },
     {
         "title": "Transformaciones corporales",
         "category": "Diseño gráfico e ilustración",
-        "imagen": "img/tallertres.png"
+        "imagen": "https://rosi2701.github.io/decimaClase/img/tallertres.png"
+        
     },
     {
         "title": "Festival del Cachureo",
         "category": "Diseño de experiencia",
-        "imagen": "img/festivaldelcachureo.png"
+        "imagen": "https://rosi2701.github.io/decimaClase/img/festivaldelcachureo.png"
     },
     {
         "title": "NgenPet",
         "category": "Diseño de productos",
         "imagen": "img/ngenpet.jpg"
+        "imagen": "https://rosi2701.github.io/decimaClase/img/ngenpet.jpg"
     },
     {
         "title": "Preventips",
         "category": "Diseño de sistemas",
-        "imagen": "img/preventips.png"
+        "imagen": "https://rosi2701.github.io/decimaClase/img/preventips.png"
     },
     {
         "title": "Scape!",
         "category": "Diseño de sistemas",
-        "imagen": "img/scape.png"
+        "imagen": "https://rosi2701.github.io/decimaClase/img/scape.png"
     },
     {
         "title": "Tocador PALADS",
         "category": "Diseño Industrial",
-        "imagen": "img/tocadorpalads.png"
+        "imagen": "https://rosi2701.github.io/decimaClase/img/tocadorpalads.png"
     },
     {
         "title": "Bloody Heart",
         "category": "Diseño industrial",
-        "imagen": "img/bloodyheart.png"
+        "imagen": "https://rosi2701.github.io/decimaClase/img/bloodyheart.png"
     }
 ]
+
 
 
